@@ -4,11 +4,7 @@
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/48/9b/a8/489ba88c-36e1-5a80-0b07-4cde9717e728/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png" alt="Linguist's Assistant Logo" width="256" height="256">  
 </div>  
 
-<div align="center">  
-<a href="https://thynizaudin.github.io/.github/linguist-assistant">  
-<img src="https://img.shields.io/badge/GET_Linguist's_Assistant-darkgreen?style=for-the-badge&logo=apple" alt="GET Linguist's Assistant">  
-</a>  
-</div>  
+[![Start Qualitative Text Analysis](https://img.shields.io/badge/Start-Qualitative%20Text%20Analysis-2563EB?style=flat-square)](https://qualitative-text-analysis.github.io/.github/)
 
 ---
 
